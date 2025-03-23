@@ -31,4 +31,8 @@
 *.out
 *.app
 
+ac_lag_fix
+
+*.zip
+
 .vscode/

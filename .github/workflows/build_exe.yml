@@ -7,7 +7,7 @@ on:
       branches: [ main ]
 
 jobs:
-  build-and-test:
+  build:
       runs-on: ubuntu-latest
       steps:
       - uses: actions/checkout@v2
@@ -18,4 +18,4 @@ jobs:
       - name: configure
         run: ./configure
       - name: make
-        run: make
+        run: make build_64
