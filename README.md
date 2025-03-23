@@ -16,5 +16,7 @@ It just zeroes out the bytes for this string, so the game doesn't try anymore to
 ### Credits:
 Credits to [J3r0m3](https://www.nexusmods.com/assassinscreed/users/40473025) that posted other than the executable already edited, also the workaround to do.
 
-You can find the original here:
+You can find the original mod here:
 [Assassin's Creed Lag Fix - No more lag or frame freezes](https://www.nexusmods.com/assassinscreed/mods/81)
+
+© 2008 Ubisoft Entertainment. All Rights Reserved. Assassin’s Creed, Ubisoft, and the Ubisoft logo are trademarks of Ubisoft Entertainment in the US and/or other countries.
