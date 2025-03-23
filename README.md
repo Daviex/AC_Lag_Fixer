@@ -1,4 +1,4 @@
-# AC_Lag_Fixer
+# Assassin's Creed Lag Fixer
 Just a simple executable that does the work for you...
 
 ### Init
